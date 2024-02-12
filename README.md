@@ -26,4 +26,4 @@ This is an interactive choropleth web map that allows users to see more informat
 This is an interactive proportional symbols map that allows users to see more information when clicking on certain points. The different colors and size of the points represent different Covid-19 counts as shown in the legend.
 
 #### Acknowledgments
-These inforgraphics were achieved using latest version of mapbox-gl-js.css and mapbox-gl-js.js javascript library and were implemented in HTML and CSS.
+These inforgraphics were made using Mapbox Studio and QGIS and were implemented in HTML and JS.
