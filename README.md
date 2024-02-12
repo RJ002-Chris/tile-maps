@@ -1,5 +1,5 @@
 # Tile Map Design
-In this project, we will be using QGIS and Mapbox Studios together to design and produce a tile map. Firstly, we will design it in Mapbox Studios using their tools to create a basemap, we then export it to QGIS using a plugin called QMetaTiles. This plugin will allow us to download our map as tiles while setting the zoom levels to our own preferences. There are 4 maps showcased in this repo:
+In this project, we will be using QGIS and Mapbox Studios together to design and produce a tile map. Firstly, we will design it in Mapbox Studios using their tools to create a basemap, we then export it to QGIS using a plugin called QMetaTiles. This plugin will allow us to download our map as tiles while setting the zoom levels to our own preferences. There are 4 maps showcased in the [Tile Map website](https://github.com/RJ002-Chris/tile-maps):
 - A tile set is a base map provided by MapBox customized to my preferences
 - A thematic layer with proportional symbols showing the magnitude of earthquakes in Japan from 1/1/2024 to 1/10/2024 (Noto earthquake)
 - A tile set composed of the thematic layer and the basemap from the first tile set
